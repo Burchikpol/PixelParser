@@ -1,0 +1,8 @@
+/vendor
+/bin/fink.phar
+/.php_cs.cache
+/composer.lock
+/tests/Workspace
+/.phpactor.yml
+/.phpactor/*
+/.phpunit.result.cache

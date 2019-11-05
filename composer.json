@@ -1,0 +1,8 @@
+{
+    "require": {
+        "revolution/laravel-google-sheets": "^5.0"
+    },
+    "require-dev": {
+        "dantleech/fink": "^0.9.0"
+    }
+}
